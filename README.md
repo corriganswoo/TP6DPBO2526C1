@@ -8,7 +8,7 @@ Proyek ini merupakan implementasi dan pengembangan dari permainan klasik Flappy 
 
 ## Janji
 
-Saya Irsyad Afif Musyaffa dengan NIM 2508023 mengerjakan Tugas Praktikum 7 dalam mata kuliah Desain dan Pemrograman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
+Saya Irsyad Afif Musyaffa dengan NIM 2508023 mengerjakan Tugas Praktikum 6 dalam mata kuliah Desain dan Pemrograman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 
 ## Fitur Utama
 
