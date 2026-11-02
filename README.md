@@ -114,4 +114,4 @@ Mengimplementasikan interface `ActionListener` untuk perulangan game dan `KeyLis
 
 ## Tampilan Program
 
-*(Tambahkan tautan gambar screenshot atau GIF rekaman aplikasi di sini)*
+![Demo Gameplay](Documentation/FlappyBirdVid.mp4)
