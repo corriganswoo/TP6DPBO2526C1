@@ -114,4 +114,8 @@ Mengimplementasikan interface `ActionListener` untuk perulangan game dan `KeyLis
 
 ## Tampilan Program
 
-<video src="Documentation/FlappyBirdVid.mp4?raw=true" controls width="100%"></video>
+
+
+https://github.com/user-attachments/assets/80d24f06-6eba-4f26-a95c-685712890d7c
+
+
